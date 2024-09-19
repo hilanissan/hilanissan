@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi! 👋 my name is Hila Nissan
+
+✨ I’m currently pursuing a degree in Computer Science at Bar-Ilan University (BIU). My academic journey has exposed me to a wide range of programming languages, tools, and concepts—from mathematics and algorithms to data structures, Object-Oriented Programming, and computer architecture.
+
+✨ I'm deeply passionate about data science, machine learning, and constantly learning new things. Whether it’s mastering new technologies or diving into completely new fields, I’m always eager to expand my horizons and apply what I learn to solve real-world problems.
 
 <!--
 **hilanissan/hilanissan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! my name is Hila Nissan
 
 Here are some ideas to get you started:
 
